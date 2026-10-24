@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Tech Enthusiast: Currently pursuing my B.Tech in CSE, diving deep into Deep Learning, Machine Learning, and Software Projects.
+🚀 Tech Enthusiast: B.Tech in CSE, diving deep into Deep Learning, Machine Learning, and Software Projects.
 
 🤖 AI Explorer: Actively learning about Generative AI, Prompt Engineering, and working on innovative AI-based solutions.
 
